@@ -151,3 +151,6 @@ Manual dataset:
 Hello how are you?
 #### Output prompt:
 I'm good, and you?
+
+## In summary
+This is a model with a revolutionary architecture called (NoO) that combines dictionary vocabulary and the neural network, two techniques that have been around for a long time but when we put them together we get the best of both worlds.
