@@ -139,6 +139,7 @@ Hello how are you bro
 #### Output prompt:
 can't complain . What about you ? 
 
+----------------------------------------
 ### Second Example
 #### Dataset used:
 Manual dataset:    
