@@ -128,3 +128,13 @@ response = get_response(question, corpus, relation_network)
 print(response)
 
 ```
+
+## Example of (NoO) response
+
+### First Example
+#### Dataset used:
+daily_dialog
+#### Input prompt:
+Hello how are you bro
+#### Output prompt:
+can't complain . What about you ? 
