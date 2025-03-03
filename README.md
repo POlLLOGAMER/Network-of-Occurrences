@@ -153,4 +153,4 @@ Hello how are you?
 I'm good, and you?
 
 ## In summary
-This is a model with a revolutionary architecture called (NoO) that combines dictionary vocabulary and the neural network, two techniques that have been around for a long time but when we put them together we get the best of both worlds.
+This is a model with a revolutionary architecture called (NoO) that combines dictionary vocabulary and the neural network, two techniques that have been around for a long time but when we put them together we get the best of both worlds. This technique can help developers create new generative text models with this method.
