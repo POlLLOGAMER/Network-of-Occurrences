@@ -138,3 +138,15 @@ daily_dialog
 Hello how are you bro
 #### Output prompt:
 can't complain . What about you ? 
+
+### Second Example
+#### Dataset used:
+Manual dataset:    
+    "hello how are you": "I'm good, and you?",
+    "how's it going": "Everything's good here.",
+    "hello friend": "Hello, great to see you!",
+    "how's it going for you": "I'm doing great, thanks."
+#### Input prompt:
+Hello how are you?
+#### Output prompt:
+I'm good, and you?
